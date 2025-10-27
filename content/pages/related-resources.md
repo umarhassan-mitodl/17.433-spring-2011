@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides links to related resources on Asia sections of
   publications, English sources from China, and English sources from Japan.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -13,26 +11,26 @@ uid: 196c84f4-8de1-a316-b67c-f1fcbed53e21
 Asia sections of publications
 -----------------------------
 
-[_The Washington Post_](http://www.washingtonpost.com/world/asia-pacific)
+{{% resource_link "e3cdbdfb-18a5-4828-ae44-275575cdecf3" "_The Washington Post_" %}}
 
-[_The New York Times_](http://www.nytimes.com/pages/world/asia/index.html)
+{{% resource_link "ad7346f4-36d1-4d5a-bdeb-0d72f7386f48" "_The New York Times_" %}}
 
-[_Financial Times_](http://www.ft.com/intl/world/asia-pacific)
+{{% resource_link "1b44c140-e984-46bb-9606-1f04cb411345" "_Financial Times_" %}}
 
-[BBC News](http://www.bbc.co.uk/news/world/asia/)
+{{% resource_link "ca5864d5-7369-4322-8a76-3e70cb5ae985" "BBC News" %}}
 
-[Pacific Forum: Comparative Connections](http://csis.org/program/comparative-connections)
+{{% resource_link "d22b142a-f594-4c2f-b958-6c9e7a109bc4" "Pacific Forum: Comparative Connections" %}}
 
 English sources from China
 --------------------------
 
-[Xinhua](http://www.chinaview.cn/)
+{{% resource_link "bdcdbaa3-1071-4bcc-8899-f655626f325a" "Xinhua" %}}
 
-[China Daily](http://usa.chinadaily.com.cn/)
+{{% resource_link "f8664765-c2fc-4abc-8266-50b3b9ae5358" "China Daily" %}}
 
 English sources from Japan
 --------------------------
 
-[The Asahi Shimbun](http://www.asahi.com/english/)
+{{% resource_link "749cf88c-1738-4e28-91f2-5f39686a61a8" "The Asahi Shimbun" %}}
 
-[Japan Today](http://www.japantoday.com/)
+{{% resource_link "bc7fb870-d28c-414f-b5ef-3909c8fd0586" "Japan Today" %}}
